@@ -19,7 +19,7 @@ component [component] as myComponent
 @enduml
 ```
 
-![Component](component.png)
+![Component](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/alphahm/PlantUML-Examples/master/docs/Objects/source/component.puml)
 
 <a name="interface"/>
 
