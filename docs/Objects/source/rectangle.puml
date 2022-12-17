@@ -1,0 +1,3 @@
+@startuml
+rectangle "This is a Rectangle"
+@enduml

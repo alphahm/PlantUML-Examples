@@ -1,0 +1,8 @@
+@startuml
+rectangle "This is a Rectangle with things in it" {
+    () " " as o1
+    () " " as o2
+    :Actor:
+    [Component]
+}
+@enduml

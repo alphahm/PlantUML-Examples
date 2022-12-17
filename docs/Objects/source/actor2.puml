@@ -1,0 +1,6 @@
+@startuml
+skinparam ActorBorderColor black
+skinparam ActorBackgroundColor white
+:"Alice":
+actor "Bob"
+@enduml

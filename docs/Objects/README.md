@@ -31,7 +31,7 @@ component [component] as myComponent
 @enduml
 ```
 
-![Interface](interface.png)
+![Interface](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/alphahm/PlantUML-Examples/master/docs/Objects/source/interface.puml)
 
 <a name="rectangle"/>
 
@@ -43,7 +43,7 @@ rectangle "This is a Rectangle"
 @enduml
 ```
 
-![Rectangle](rectangle.png)
+![Rectangle](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/alphahm/PlantUML-Examples/master/docs/Objects/source/rectangle.puml)
 
 Rectangles can group other objects:
 
@@ -57,7 +57,8 @@ rectangle "This is a Rectangle with things in it" {
 }
 @enduml
 ```
-![Rectangle](rectangle2.png)
+
+![Rectangle](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/alphahm/PlantUML-Examples/master/docs/Objects/source/rectangle2.puml)
 
 <a name="actor"/>
 
@@ -71,7 +72,7 @@ Note that if you use keyword 'actor', it will assume format of a sequence diagra
 @enduml
 ```
 
-![Actor](actor.png)
+![Actor](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/alphahm/PlantUML-Examples/master/docs/Objects/source/actor.puml)
 
 Can change colour etc with skinparams:
 
@@ -84,7 +85,7 @@ actor "Bob"
 @enduml
 ```
 
-![Actor](actor2.png)
+![Actor](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/alphahm/PlantUML-Examples/master/docs/Objects/source/actor2.puml)
 
 <a name="artifact"/>
 
@@ -98,6 +99,4 @@ artifact "config.json"
 @enduml
 ```
 
-![Actor](artifact.png)
-
-
+![Artifact](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/alphahm/PlantUML-Examples/master/docs/Objects/source/artifact.puml)

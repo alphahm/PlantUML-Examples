@@ -1,0 +1,3 @@
+@startuml
+() "This is an interface" as myInterface
+@enduml
