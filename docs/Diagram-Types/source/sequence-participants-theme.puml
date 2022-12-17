@@ -1,12 +1,3 @@
-[<-Diagram Types](../diagram-types.md)
-
-Sequence Diagram with Participants and using a Theme:
-
-![Sequence Simple](sequence-participants-theme/sequence-participants-theme.png)
-
-Source code:
-
-```plantuml
 @startuml
 !theme bluegray
 title Sequence Participants
@@ -30,4 +21,3 @@ Actor -> Boundary: List all options
 Boundary -> Control: List all options (actor)
 Control -> Entity: List all options (actor)
 @enduml
-```

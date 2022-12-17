@@ -1,13 +1,3 @@
-[<-Diagram Types](../diagram-types.md)
-
-# Deployment-Like Diagram
-
-This isn't strictly a UML Deployment Diagram, but is similar:
-
-![Deployment-Like Diagram](deployment-like-diagram/deployment-like-diagram.png)
-
-Source code:
-```plantuml
 @startuml
 !theme sketchy-outline
 hide stereotype
@@ -77,4 +67,3 @@ components --> sup_svces
 components --> infra
 
 @enduml
-```

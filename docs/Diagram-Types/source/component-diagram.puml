@@ -1,11 +1,3 @@
-[<-Diagram Types](../diagram-types.md)
-
-# Component Diagram
-
-![Component Diagram](component-diagram/component-diagram.png)
-
-Source code:
-```plantuml
 @startuml
 
 title Component Diagram Example
@@ -47,4 +39,3 @@ svc_book -> db_book
 user_mgmt -> db_user
 db_user --[hidden]> db_book
 @enduml
-```

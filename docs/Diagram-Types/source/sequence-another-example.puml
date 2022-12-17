@@ -1,12 +1,3 @@
-[<-Diagram Types](../diagram-types.md)
-
-Sequence Diagram - Another Example:
-
-![Sequence Simple](sequence-another-example/sequence-another-example.png)
-
-Source code:
-
-```plantuml
 @startuml
 
 Title Another Sequence Diagram Example
@@ -39,4 +30,3 @@ bob -[#red]> hatter: this arrow is red
 
 hatter -[#black]> alice: This is all\nnonsense!
 @enduml
-```
