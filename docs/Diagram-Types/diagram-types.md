@@ -25,7 +25,7 @@ See https://plantuml.com/commons#6dd346f9babe70c8 for diagram type examples that
 
 ![Activity Diagram](source/activity-diagram/activity-diagram.png)
 
-[(source PlantUML code)](source/activity-diagram.md)
+[(source PlantUML code)](source/activity-diagram.puml)
 
 Note: auto-detect activity diagram type by lines that start with : and end with ;
 
