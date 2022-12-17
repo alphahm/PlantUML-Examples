@@ -23,7 +23,7 @@ See https://plantuml.com/commons#6dd346f9babe70c8 for diagram type examples that
 
 ## Activity Diagram
 
-![Activity Diagram](source/activity-diagram/activity-diagram.png)
+![Activity Diagram](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/alphahm/PlantUML-Examples/master/docs/Diagram-Types/source/activity-diagram.puml)
 
 [(source PlantUML code)](source/activity-diagram.puml)
 
